@@ -1,6 +1,6 @@
 # Mall Customer Segmentation
 
-A small practice project from my machine learning course. It groups mall
+Practice project built with AI assistance on a public dataset. It groups mall
 customers into segments using K-Means clustering on annual income and
 spending score, and picks the number of clusters with the elbow method.
 
